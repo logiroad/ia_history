@@ -25,7 +25,7 @@ Voici un exemple :
 
 `... et toutes autres informations que vous jugez utiles`
 
-* De créer un fichier labels.txt, contenant l'ensemble du nom de chaque classe.
+* De créer un fichier **labels.txt**, contenant l'ensemble du nom de chaque classe.
 
 * D'intégrer le(s) fichier(s) de configuration.
 
