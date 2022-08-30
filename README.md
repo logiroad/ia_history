@@ -23,11 +23,13 @@ Voici un exemple :
 
 `Version Tensor RT :`
 
+`... et toutes autres informations que vous jugez utiles`
+
 * De créer un fichier labels.txt, contenant l'ensemble du nom de chaque classe.
 
 * D'intégrer le(s) fichier(s) de configuration.
 
-* **- ATTENTION : Ne pas poster le fichier de poids pour éviter de saturer trop rapidement le gitlab. Il faut mettre le lien ou le répertoire partagé dans lequel
+* ** ATTENTION : Ne pas poster le fichier de poids pour éviter de saturer trop rapidement le gitlab. Il faut mettre le lien ou le répertoire partagé dans lequel
 on peut retrouver ce fichier, dans le fichier infos.txt**
 
 
