@@ -2,10 +2,32 @@ Ce répo est dédié à l'historisque des différents réseaux de neurones qui o
 
 L'idée est de garder un historique sur ce qui a été fait et de pouvoir les utiliser facilement par chacun.
 
+Une arborescence a été mise en place afin de suivre un "certain standard" :
+
+- classifier
+    - nom_général_significatif
+        - nom_du_réseau
+            - infos.txt
+            - labels.txt
+            - fichiers de configuration
+- detector
+    - nom_général_significatif
+        - nom_du_réseau
+            - infos.txt
+            - labels.txt
+            - fichiers de configuration
+- segmentation
+    - nom_général_significatif
+        - nom_du_réseau
+            - infos.txt
+            - labels.txt
+            - fichiers de configuration
+
+
 **Il est important pour chaque nouveau modèle :**
 
 * De créer un fichier **infos.txt** contenant toutes les informations utiles pour l'utilisation du réseau.
-Voici un exemple :
+Voici un exemple (detector/Véhicules/custom_vehicles_yolov4) :
 
 `datasets : base logiroad L2R Annotation (12/2021)`
 
