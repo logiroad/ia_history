@@ -1,0 +1,10 @@
+datasets : base logiroad L2R Annotation (12/2021)
+modèle : Yolo V4
+fichier de poids pré-entrainé utilisé : yolov4.conv.137 (sur https://github.com/AlexeyAB/darknet#how-to-train-to-detect-your-custom-objects)
+fichier de poids : //cass/Bibliotheque/TRAIN/2010/model.4.yolo
+mAP : 
+Vitesse Inférence :
+GPU / Compute Capabilities :
+Version Tensor RT :
+
+
