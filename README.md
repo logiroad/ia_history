@@ -2,9 +2,9 @@ Ce répo est dédié à l'historisque des différents réseaux de neurones qui o
 
 L'idée est de garder un historique sur ce qui a été fait et de pouvoir les utiliser facilement par chacun.
 
-**Il est important de créer pour chaque nouveau modèle :**
+**Il est important pour chaque nouveau modèle :**
 
-* Un fichier **infos.txt** contenant toutes les informations utiles pour l'utilisation du réseau.
+* De créer un fichier **infos.txt** contenant toutes les informations utiles pour l'utilisation du réseau.
 Voici un exemple :
 
 `datasets : base logiroad L2R Annotation (12/2021)`
@@ -23,9 +23,9 @@ Voici un exemple :
 
 `Version Tensor RT :`
 
-* Un fichier labels.txt, contenant l'ensemble du nom de chaque classe.
+* De créer un fichier labels.txt, contenant l'ensemble du nom de chaque classe.
 
-- d'intégrer le(s) fichier(s) de configuration.
+* D'intégrer le(s) fichier(s) de configuration.
 
 * **- ATTENTION : Ne pas poster le fichier de poids pour éviter de saturer trop rapidement le gitlab. Il faut mettre le lien ou le répertoire partagé dans lequel
 on peut retrouver ce fichier, dans le fichier infos.txt**
