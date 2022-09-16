@@ -1,0 +1,6 @@
+datasets : base de detection des panneaux
+modèle : cascade rcnn de mmdetection
+Version pytorch : ../panneaux_cascade_rcnn_pytorch
+Version Onnx : ../panneaux_cascade_rcnn_onnx
+Version Tensor RT : ../panneaux_cascade_rcnn_tensorrt
+
