@@ -1,0 +1,5 @@
+datasets : AI4Cracks (10746 images)
+modèle : EfficientNet de mmclassification
+fichier de poids pré-entrainé utilisé : https://download.openmmlab.com/mmclassification/v0/efficientnet/efficientnet-b4_3rdparty_8xb32-aa-advprop_in1k_20220119-38c2238c.pth
+mAP : 0.442
+
