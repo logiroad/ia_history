@@ -1,0 +1,5 @@
+datasets : AI4Cracks (10746 images)
+modèle : TOOD de mmdetection
+fichier de poids pré-entrainé utilisé : https://download.openmmlab.com/mmdetection/v2.0/tood/tood_r101_fpn_dconv_c3-c5_mstrain_2x_coco/tood_r101_fpn_dconv_c3-c5_mstrain_2x_coco_20211210_213728-4a824142.pth
+mAP (IoU=0.5) : 0.354
+
