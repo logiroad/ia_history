@@ -1,0 +1,13 @@
+Background
+Arrachement_pelade
+Faiencage
+Nid_de_poule
+Transversale
+Longitudinale
+Pontage_de_fissures
+Remblaiement_de_tranchees
+Raccord_de_chaussee
+Comblage_de_trou_ou_Projection_d_enrobe
+Bouche_a_clef
+Grille_avaloir
+Regard_tampon

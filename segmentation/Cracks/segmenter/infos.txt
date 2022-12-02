@@ -1,0 +1,5 @@
+datasets : AI4Cracks (10746 images), converti avec method B-cos
+modèle : Segmenter de mmsegmentation
+fichier de poids pré-entrainé utilisé : https://download.openmmlab.com/mmsegmentation/v0.5/segmenter/segmenter_vit-b_mask_8x1_512x512_160k_ade20k/segmenter_vit-b_mask_8x1_512x512_160k_ade20k_20220105_151706-bc533b08.pth
+mIoU : 0.250
+
